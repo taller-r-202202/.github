@@ -1,16 +1,5 @@
-## Hi there 👋
+## Hola 👋
 
+Esta cuenta contiene los repositorios del curso ECON-1302 de la Facultad de Economía de la Universidad de los Andes. Cada repositorio contiene las carpetas **input** y **output** con los conjuntos de datos empleados en cada clase. Adicionalmente en la carpeta **source** encontrará un archivo *lecture.html* que contiene los códigos de la clase.
 
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-
-
-https://github.com/taller-r-202202/.github.git
 
