@@ -12,7 +12,7 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 
 ### Repositorios
 - **clase-01:** Introducción al curso.
-- **clase-02:** Introducción a R.
+- **clase-02:** Fundamentos de programación.
 - **clase-03:** Estructuras de datos en R.
 - **clase-04:** Github.
 
