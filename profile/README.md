@@ -13,13 +13,13 @@ Esta cuenta contiene los repositorios del curso [ECON-1302](https://github.com/t
 Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/taller-r-202202/.github/blob/main/syllabus.pdf)
 
 ### Repositorios
-- **clase-01:** Introducción al curso. [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-1/)
-- **clase-02:** Fundamentos de programación. [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-2/)
-- **clase-03:** Estructuras de datos en R. [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-3/)
-- **clase-04:** Github. [[lecture-01]](https://lectures-r.gitlab.io/uniandes-202202/lecture-4/)
-- **clase-05:** Proyectos en R. [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-5/)
-- **clase-06:** Data Wrangling en R. [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-6/)
-- **clase-07:** Combinar conjuntos de datos. [[lecture-01]]()
-- **clase-08:** Presentación de resultados. [[lecture-01]]()
+- **clase-01:** Introducción al curso. [[repositorio]](https://github.com/taller-r-202202/clase-01) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-1/)
+- **clase-02:** Fundamentos de programación. [[repositorio]](https://github.com/taller-r-202202/clase-02) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-2/)
+- **clase-03:** Estructuras de datos en R. [[repositorio]](https://github.com/taller-r-202202/clase-03) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-3/)
+- **clase-04:** Github. [[repositorio]](https://github.com/taller-r-202202/clase-04) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-4/)
+- **clase-05:** Proyectos en R. [[repositorio]](https://github.com/taller-r-202202/clase-05) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-5/)
+- **clase-06:** Data Wrangling en R. [[repositorio]](https://github.com/taller-r-202202/clase-06) -  [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-6/)
+- **clase-07:** Combinar conjuntos de datos.
+- **clase-08:** Presentación de resultados. 
 
 
