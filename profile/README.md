@@ -8,18 +8,18 @@ Esta cuenta contiene los repositorios del curso [ECON-1302](https://github.com/t
 
 - :file_folder: **source**: contiene el script de la clase.
 
-- :book: **README.md**: contiene la descripción del repositorio y un link a las slides que contiene el código de la clase.
+- :book: **README.md**: contiene la descripción del repositorio y el link a las lectures de la clase.
 
 Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/taller-r-202202/.github/blob/main/syllabus.pdf)
 
 ### Repositorios
-- **clase-01:** Introducción al curso.
-- **clase-02:** Fundamentos de programación.
-- **clase-03:** Estructuras de datos en R.
-- **clase-04:** Github.
-- **clase-05:** Proyectos en R.
-- **clase-06:** Data Wrangling en R.
-- **clase-07:** Combinar conjuntos de datos.
-- **clase-08:** Presentación de resultados.
+- **clase-01:** Introducción al curso. [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-1/)
+- **clase-02:** Fundamentos de programación. [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-2/)
+- **clase-03:** Estructuras de datos en R. [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-3/)
+- **clase-04:** Github. [[lecture-01]](https://lectures-r.gitlab.io/uniandes-202202/lecture-4/)
+- **clase-05:** Proyectos en R. [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-5/)
+- **clase-06:** Data Wrangling en R. [[lecture]](https://lectures-r.gitlab.io/uniandes-202202/lecture-6/)
+- **clase-07:** Combinar conjuntos de datos. [[lecture-01]]()
+- **clase-08:** Presentación de resultados. [[lecture-01]]()
 
 
