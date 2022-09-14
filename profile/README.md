@@ -17,5 +17,9 @@ Adicionalmente puede encontrar el syllabus del curso [aquí](https://github.com/
 - **clase-02:** Fundamentos de programación.
 - **clase-03:** Estructuras de datos en R.
 - **clase-04:** Github.
+- **clase-05:** Proyectos en R.
+- **clase-06:** Data Wrangling en R.
+- **clase-07:** Combinar conjuntos de datos.
+- **clase-08:** Presentación de resultados.
 
 
